@@ -1,4 +1,4 @@
 restamaze-mobile
 ================
 
-Mobile version of &lt;a href="https://github.com/cemsonmez/restamaze">Restamaze&lt;/a>
+Mobile version of <a href="https://github.com/cemsonmez/restamaze">Restamaze</a>
